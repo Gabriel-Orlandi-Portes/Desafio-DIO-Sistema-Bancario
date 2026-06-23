@@ -24,7 +24,7 @@ Este projeto consiste em um sistema bancário simples desenvolvido em Python uti
 1. Clone o repositório:
 
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/Gabriel-Orlandi-Portes/Desafio-DIO-Sistema-Bancario
    ```
 
 2. Execute o programa:
